@@ -35,23 +35,20 @@ The significant features for lasso regression are: -
 
   Positively influencing factors: -
 
-    Lot area (log value).
-    First floor square feet area (log value).
-   Negatively Influencing factors: -
+  1.	Sale type – contract low down.
+  2.	Price per square feet (log value).
+  3.	MS Zoning residential low density.
+  4.	MS Zoning floating village residential.
+  5.	Exterior condition of material – fair type.
 
-    Price per square feet (log value).
-    Ground Living area (log value).
-    Bedroom above ground (original value).
+The significant features from Ridge Regression are: -
 
-The significant features from Ridge and linear Regressions are: -
-
-  Positively influencing factors: -
-
-    Lot area (log value).
-    Lot frontage (log value).
-    
-  Negatively influencing factors: -
-
-    Length Width Ratio (log value).
-    Price per square feet (log value).
-    Ground living area (log value).
+  Positively influencing predictors – 
+  1.	Heating quality and condition – poor.
+  2.	Price per square feet (log value)
+  3.	Exterior condition of material – fair type.
+  
+  Negatively influencing predictors – 
+  1.	Exterior covering – cement board. 
+  2.	MS Zoning residential high density. 
+  3.	MS Zoning residntial medium density.
