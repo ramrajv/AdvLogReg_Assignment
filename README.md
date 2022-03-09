@@ -1,5 +1,6 @@
 # Advanced Linear Regression Assignment
-By Ramraj Vasudevan (Oct 21 batch)
+<p align = 'right'>By Ramraj Vasudevan (Oct 21 batch)</p>
+
 Assignment for advanced logistics regression from Upgrad Oct 21 EPGP program
 
 # Introduction
