@@ -1,4 +1,5 @@
-# AdvLogReg_Assignment
+# Advanced Linear Regression Assignment
+By Ramraj Vasudevan (Oct 21 batch)
 Assignment for advanced logistics regression from Upgrad Oct 21 EPGP program
 
 # Introduction
